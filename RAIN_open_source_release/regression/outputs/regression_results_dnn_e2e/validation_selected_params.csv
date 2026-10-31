@@ -1,0 +1,2 @@
+model_family,seeds,dnn_pretrain_epochs,joint_epochs,dnn_lr,joint_lr,dnn_weight_decay,dnn_dropout,unary_aux_weight,prior_weight,validation_dnn_unary_rmse,validation_dnn_unary_r2,validation_rain_rmse,validation_rain_r2
+strict_dnn_e2e_rain,11-42-77-123-2026,670,80,0.0005,1e-05,0.0005,0.04,0.2,0.5,7.135055406618618,0.7254804372787476,5.781217997694364,0.8197740912437439

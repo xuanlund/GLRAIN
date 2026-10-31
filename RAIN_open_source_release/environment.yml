@@ -1,0 +1,15 @@
+name: rain-release
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy=2.0.2
+  - pandas=2.2.3
+  - scipy=1.13.1
+  - scikit-learn=1.6.1
+  - pytorch=2.7.1
+  - cpuonly
+  - pip
+  - pip:
+      - matplotlib==3.9.4
